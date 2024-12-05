@@ -1,2 +1,2 @@
-# GO-LANG
-This repository have the code related to go basic
+# GO-LANG Project
+This repository have the code of GO lang Project
