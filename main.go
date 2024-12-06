@@ -20,7 +20,7 @@ type URL struct {
 /*
 	d9736711 --> {
 					ID: "d9736711",
-					OriginalURL: "https://github.com/Prince-1501/",
+					OriginalURL: "https://github.com/ashish9825/",
 					ShortURL: "d9736711",
 					CreationDate: time.Now()
 				}
